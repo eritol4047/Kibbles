@@ -1,0 +1,5 @@
+Task Display limited to user:
+SELECT * FROM users a JOIN tasks b ON a.userID = b.userID WHERE Username = '$userName'
+
+Open Tasks Display:
+SELECT * FROM Tasks

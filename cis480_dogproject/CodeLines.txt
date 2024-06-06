@@ -1,0 +1,2 @@
+Session information display test code:
+    <h3><?php print_r($_SESSION); ?></h3>

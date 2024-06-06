@@ -1,0 +1,5 @@
+#frmCheckPassword {border-top:#F0F0F0 2px solid;background:#FAF8F8;padding:5px;}
+#password-strength-status {position: center; width: auto;padding: 3px 5px;color: #FFFFFF; border-radius:4px;margin-top:1px;}
+.medium{background-color: #aca414;border:#BBB418 1px solid;}
+.weak{background-color: #FF6600;border:#AA4502 1px solid;}
+.strong{background-color: #12CC1A;border:#0FA015 1px solid;}

@@ -1,0 +1,23 @@
+Tables:
+Tasks FK - Users
+Profiles FK - Users
+Repeatable
+
+
+Tasks Columns:
+TaskID PK
+UserID FK - Users
+TaskName
+Description
+RepeatID FK - Repeatable
+
+
+Profiles Columns:
+ProfileID PK
+UserID FK - Users
+ProfileName
+
+Repeatable Columns:
+RepeatID PK
+Name
+Description
